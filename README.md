@@ -13,7 +13,7 @@
 <img width="1107" height="697" alt="image" src="https://github.com/user-attachments/assets/921c625e-ec7d-4ca6-b73c-5e5ad061fa9a" />
 
 ## Setup
-Run start DBMS (i use PostGreSQL).
-Run dns_server: python3 run.py.
-Run dns_agent: sudo ./dns_agent [interface] [address: app].
+- Run start DBMS (i use PostGreSQL).
+- Run dns_server: python3 run.py.
+- Run dns_agent: sudo ./dns_agent [interface] [address: app].
 (implement based on Linux).
