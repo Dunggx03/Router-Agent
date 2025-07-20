@@ -6,5 +6,11 @@
 5. **Statistics and Display**: Generate access statistics based on categories and display the results on a dashboard interface.
 
 ## System Design
+- system:
+<img width="853" height="569" alt="image" src="https://github.com/user-attachments/assets/596410c4-cc24-4e97-a3db-10c4b68500d3" />
 
-<img width="511" height="401" alt="WEBTREE-Page-8 drawio" src="https://github.com/user-attachments/assets/7ab03ef0-bb72-4fa0-97d1-e09f37f03e95" />
+- db :
+<img width="1107" height="697" alt="image" src="https://github.com/user-attachments/assets/921c625e-ec7d-4ca6-b73c-5e5ad061fa9a" />
+
+## Setup
+
