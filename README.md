@@ -5,5 +5,5 @@
 4. **Log and Store Data**: Save information about domain names and IP addresses into a database, while logging unknown domains into a separate file.
 5. **Statistics and Display**: Generate access statistics based on categories and display the results on a dashboard interface.
 
-6. ## System Design
-7. 
+## System Design
+
