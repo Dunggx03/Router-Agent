@@ -7,3 +7,4 @@
 
 ## System Design
 
+<img width="511" height="401" alt="WEBTREE-Page-8 drawio" src="https://github.com/user-attachments/assets/7ab03ef0-bb72-4fa0-97d1-e09f37f03e95" />
